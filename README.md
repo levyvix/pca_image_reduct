@@ -8,4 +8,4 @@
 ![razor reconstructed](razor_reconstruced.png "Reconstruioda")
 
 ## Blog post: 
-[Redução dimensional de imagens usando PCA](https://www.fernandofreitasalves.com/2019/05/reducao-dimensional-de-imagens-usando-pca.html)
+[Redução dimensional de imagens usando PCA](https://medium.com/@levyvix/comprimindo-imagens-com-componentes-principais-799a0b8bfb7c)
